@@ -1,7 +1,9 @@
 # W266-NLP-final-project
 Repository for team project for MIDs W266 NLP Class
 
-Final report can be found [here:](https://github.com/chandnishah217/spotify_podcast_sentiment/blob/main/Emotion_Detection_Spotify_W266.pdf)
+[Final report can be found here](https://github.com/chandnishah217/spotify_podcast_sentiment/blob/main/Emotion_Detection_Spotify_W266.pdf)
+
+[Presentation slides can be found here](https://github.com/chandnishah217/spotify_podcast_sentiment/blob/main/Emotion%20Analysis%20on%20Podcast%20Corpus-%20presenation.pdf)
 
 # Directory structure
 
